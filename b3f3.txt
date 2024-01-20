@@ -1,2 +1,3 @@
 This is the file in branch b3 before merging branch b2.
-New line is added after creating branch b4
+New line is added after creating branch b4.
+new line during branch b9.
