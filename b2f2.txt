@@ -1,2 +1,3 @@
 This is the file in branch b2 after merging branch b1 to master.
 This has been edited in branch b5.
+New line has been added after branching b7.
